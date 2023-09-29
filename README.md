@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MartinFrancoIrabedra
-I´m an economist graduated in the university of Bonn with focus on quantitative methods.
+I´m an economist graduated from the University of Bonn with focus on quantitative methods.
 Main focus on statistical techniques and machine learning methods.
 
 <!---

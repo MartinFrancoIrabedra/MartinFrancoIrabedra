@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MartinFrancoIrabedra
 I´m an economist graduated from the University of Bonn with focus on quantitative methods.
-Main focus on statistical techniques and machine learning methods.
 
 <!---
 MartinFrancoIrabedra/MartinFrancoIrabedra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
